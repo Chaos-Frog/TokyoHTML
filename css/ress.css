@@ -226,7 +226,7 @@ legend {
     max-width: 100%; /* Correct the text wrapping in Edge and IE */
     white-space: normal; /* Correct the text wrapping in Edge and IE */
     max-width: 100%; /* Correct the text wrapping in Edge 18- and IE */
-}
+} 
 
 ::-webkit-file-upload-button {
     /* Correct the inability to style clickable types in iOS and Safari */
